@@ -3,7 +3,6 @@ exercises
 
 Exercise solutions for the MPAGS Python course
 
-**[View the notebooks on nbviewer:](http://nbviewer.ipython.org/github/mpags-python/exercises/tree/master/)**
+Click the .ipynb files to see read-only versions of the iPython notebooks within GitHub.
 
-* [Session 1](http://nbviewer.ipython.org/github/mpags-python/exercises/blob/master/Exercises1.ipynb)
-* [Session 2](http://nbviewer.ipython.org/github/mpags-python/exercises/blob/master/Exercises2.ipynb)
+Download them to modify them and run them yourself.
